@@ -1,7 +1,7 @@
 name: advanced_column_row
-description: "A new Flutter package project."
+description: "A new Flutter package that provides advanced column and row widgets."
 version: 0.0.1
-homepage:
+homepage: https://github.com/Achintha444/advanced_column_row
 
 environment:
   sdk: ^3.5.3
