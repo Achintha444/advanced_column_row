@@ -1,5 +1,5 @@
-import 'package:advanced_column_row/advanced_column_row.dart';
-import 'package:flutter/material.dart';
+import "package:advanced_column_row/advanced_column_row.dart";
+import "package:flutter/material.dart";
 
 void main() {
   runApp(const MyApp());
@@ -12,12 +12,12 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: "Flutter Demo",
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const MyHomePage(title: "Flutter Demo Home Page"),
     );
   }
 }
@@ -53,10 +53,10 @@ class _MyHomePageState extends State<MyHomePage> {
           gapWidget: Spacer(),
           children: <Widget>[
             const Text(
-              'You have pushed the button this many times:',
+              "You have pushed the button this many times:",
             ),
             Text(
-              '$_counter',
+              "$_counter",
               style: Theme.of(context).textTheme.headlineMedium,
             ),
           ],
@@ -64,7 +64,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: _incrementCounter,
-        tooltip: 'Increment',
+        tooltip: "Increment",
         child: const Icon(Icons.add),
       ),
     );
