@@ -49,7 +49,6 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       body: Center(
         child: AdvancedColumn(
-          color: Colors.red,
           gapWidget: Spacer(),
           children: <Widget>[
             const Text(
