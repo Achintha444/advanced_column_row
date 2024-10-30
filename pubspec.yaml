@@ -6,6 +6,7 @@ repository: https://github.com/Achintha444/advanced_column_row
 issue_tracker: https://github.com/Achintha444/advanced_column_row/issues
 documentation: https://github.com/Achintha444/advanced_column_row/blob/main/README.md
 topics: [column, row, widgets]
+author: "Achintha Isuru"
 
 environment:
   sdk: ^3.5.3

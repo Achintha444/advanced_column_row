@@ -1,6 +1,6 @@
-## 1.0.0 - 2024-10-29
+## 1.0.0
 
-### Initial Release
+### Initial Release: 2024 - 10 -30
 
 - Added `AdvancedColumn` widget: a customizable column with additional properties such as `alignment`, `padding`, `decoration`, `width`, `height`, and `gapWidget` for spacing between children.
 - Added `AdvancedRow` widget: a customizable row with extended properties like `alignment`, `padding`, `decoration`, `width`, `height`, and `gapWidget` for spacing between children.
