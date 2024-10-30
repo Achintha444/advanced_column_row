@@ -130,6 +130,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 ],
               ),
             ),
+            
             const Text(
               "Advanced Row Demo",
               style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
@@ -232,3 +233,4 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+ 
