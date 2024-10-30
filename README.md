@@ -125,9 +125,9 @@ class MyApp extends StatelessWidget {
 ```
 This will render an `AdvancedRow` with two children spaced by 10 pixels and having background colors and padding.
 
-Certainly! Here’s the improved **API Reference** section based on the constructors for `AdvancedColumn` and `AdvancedRow`:
+### Advanced Demo
 
----
+![Demo Screen Recording](https://github.com/Achintha444/advanced_column_row/blob/main/demo/advanced_demo.gif)
 
 ### API Reference
 
