@@ -275,7 +275,7 @@ AdvancedRow(
 
 ## Additional Information
 
-- **Issues**: If you encounter any issues or have suggestions, please file an issue on the [GitHub repository](https://github.com/yourusername/advanced_column_row/issues).
+- **Issues**: If you encounter any issues or have suggestions, please file an issue on the [GitHub repository](https://github.com/Achintha444/advanced_column_row/issues).
 - **Contributions**: Contributions are welcome! Fork the repo and submit a pull request to help improve this package.
 
 ## License
